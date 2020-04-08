@@ -51,6 +51,5 @@ public class homework2 {
         System.out.println("\n minimal is: " + min + "\n maximal is: " + max );
 
 
-            }//
-
+            
 }
